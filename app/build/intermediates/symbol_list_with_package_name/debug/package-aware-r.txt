@@ -2597,6 +2597,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id age_doggler
 id alertTitle
 id aligned
 id all
@@ -2745,6 +2746,7 @@ id groups
 id guideline
 id header_title
 id hideable
+id hobbies_doggler
 id home
 id homeAsUp
 id honorRequest
@@ -2757,6 +2759,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView_doggler
 id immediateStop
 id included
 id info
@@ -2838,6 +2841,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name_doggler
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3226,6 +3230,7 @@ menu example_menu2
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+string Foto_doggler
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -3253,6 +3258,7 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string age_doggler
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
@@ -3263,14 +3269,13 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
-string dog_age
-string dog_hobbies
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string grid
 string hide_bottom_view_on_scroll_behavior
+string hobbies_doggler
 string horizontal
 string icon_content_description
 string item_view_role_description
@@ -3346,6 +3351,7 @@ string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string mtrl_timepicker_confirm
+string name_doggler
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
