@@ -1,4 +1,4 @@
-#Thu Oct 05 13:16:31 COT 2023
+#Thu Oct 05 14:06:36 COT 2023
 base.0=C\:\\Users\\gustavo.cardona\\AndroidStudioProjects\\Dogglers\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\gustavo.cardona\\AndroidStudioProjects\\Dogglers\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\gustavo.cardona\\AndroidStudioProjects\\Dogglers\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex

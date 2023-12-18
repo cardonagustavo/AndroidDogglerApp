@@ -3,6 +3,7 @@
 <com.google.android.material.card.MaterialCardView
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_margin="8dp"
@@ -23,7 +24,8 @@
                 android:src="@drawable/leroy"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                app:layout_constraintTop_toTopOf="parent"
+                android:importantForAccessibility="no" />
 
             <TextView
                 android:id="@+id/name_doggler"
@@ -36,7 +38,8 @@
                 android:layout_marginBottom="8dp"
                 android:padding="8dp"
                 android:text="Leory"
-                android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6" />
+                android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
+                tools:ignore="HardcodedText" />
 
             <TextView
                 android:id="@+id/age_doggler"
@@ -49,7 +52,8 @@
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                 android:padding="8dp"
                 android:layout_marginStart="8dp"
-                android:text="Age: 4"/>
+                android:text="Age: 4"
+                tools:ignore="HardcodedText" />
 
             <TextView
                 android:id="@+id/hobbies_doggler"
@@ -63,7 +67,8 @@
                 android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
                 android:text="Sleeping in dangerous placese"
-                android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                tools:ignore="HardcodedText" />
 
         </GridLayout>
 
